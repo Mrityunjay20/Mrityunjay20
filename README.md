@@ -10,9 +10,9 @@ I started my journey as a web developer in my first year on engineering, when I 
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Typescript" width="45px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left" alt="Sass" width="45px" src="https://img.icons8.com/color/48/000000/sass.png"/>
- <img align="left" alt="GraphQL" width="42px" src="https://static-00.iconduck.com/assets.00/graphql-icon-455x512-ta4hbnli.png"/>
- <img align="left" alt="NestJS" width="45px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-96x96-vgqmoc84.png"/>
+<img align="left alt="Sass" width="45px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img align="left alt="GraphQL" width="42px" src="https://static-00.iconduck.com/assets.00/graphql-icon-455x512-ta4hbnli.png"/>
+ <img align="left alt="NestJS" width="45px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-96x96-vgqmoc84.png"/>
 </div>
 <br>
 
