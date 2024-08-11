@@ -15,8 +15,11 @@ I started my journey as a web developer in my first year on engineering, when I 
  <img align="left alt="NestJS" width="45px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-96x96-vgqmoc84.png"/>
 </div>
 <br>
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrityunjay20&theme=dark&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrityunjay20&show_icons=true&theme=highcontrast" width="400"!important>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mrityunjay20&theme=dark&hide_border=true" width="430">
+</p>
 
 
 ## My Contribution Streak
