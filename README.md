@@ -1,25 +1,8 @@
-### <h1>Hi there, I am Achraf 👋        
+### <h1>Hi there, I am Mrityunjay 👋        
  
-My name is Achraf and I'm a Full-stack developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
+My name is Mrityunjay and I'm a Full-stack developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
 
-I started my journey as a self-taught web developer right out of High School when I first got fascinated by the web development world and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.
-  
- 
- ## More about me                                                
-- ⚡ I’m a UI designer and Full-stack JS developer.                                  
-- 👨🏽‍💻 I spend most of my time designing & building awesome web apps.
-- 🚀 I enjoy building complex APIs using the hottest technologies.
-- 🟦 Next.js, JAMStack and typescript enthusiast.
-- 📫 Get in touch: achrafdev23@gmail.com             
-
-
-## Favorite Tools         
-            
-<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Figma" width="42px" src="https://img.icons8.com/windows/32/000000/figma.png"/>   
-<img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="42px" src="https://img.icons8.com/fluent/50/000000/github.png"/>
-<br><br>   
+I started my journey as a web developer in my first year on engineering, when I first got fascinated by the bacekdn development and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.            
   
  
 ## Languages & Frameworks 
@@ -33,12 +16,7 @@ I started my journey as a self-taught web developer right out of High School whe
 </div>
 <br>
  
-## Connect with me
-
-<p>
- <a href="https://twitter.com/achrafdevx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/achraf-el-mouhib-583563200" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
- <a href="https://www.instagram.com/achrafdev" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mrityunjay20&theme=dark&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
 
 
 ## My Contribution Streak
