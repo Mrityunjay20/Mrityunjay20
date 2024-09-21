@@ -12,7 +12,10 @@ I started my journey as a web developer in my first year on engineering, when I 
 
 
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrityunjay20&show_icons=true&theme=highcontrast" width="400"!important>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mrityunjay20&theme=dark&hide_border=true" width="430">
-</p>
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrityunjay20&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mrityunjay20&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mrityunjay20&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mrityunjay20&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mrityunjay20&theme=github_dark" />
+</div>
