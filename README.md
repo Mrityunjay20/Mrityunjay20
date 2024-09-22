@@ -2,7 +2,7 @@
  
 I'm a Full-stack developer who loves to work with modern technologies. My goal is to provide value to the large community of designers and developers.
 
-I started my journey as a web developer in my first year on engineering, when I first got fascinated by the bacekdn development and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.            
+I started my journey as a web developer in my first year on engineering, when I first got fascinated by the backend development and wanted to build amazing experiences for the web. Ever since I have fallen in love with web development and spend most of my days taking my skills to the next-level.            
 <br>
 
 ## 🌐 Socials:
